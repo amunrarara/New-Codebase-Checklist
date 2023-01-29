@@ -157,9 +157,7 @@
 
 ---
 
-## Components Palette
-
----
+### Components Palette
 
 - Navigation
     - Mobile / Desktop
