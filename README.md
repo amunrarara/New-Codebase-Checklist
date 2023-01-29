@@ -133,12 +133,6 @@
 - Emulators
 - NEXT_PUBLIC_ Env Vars (if using NextJs)
 
-## Components Library
-
----
-
-- Buttons
-
 ## Identity + Access Management
 
 ---
@@ -148,22 +142,31 @@
 - Roles
 - User Data
 
-## Backend Development
+## Backend Development Cycle
 
 ---
 
-- API
+- API Development
     - Auto-documentation
     - Security
-- Database
+- Database 
+    - Define initial schemas
+    - Initial migration
 
-## Frontend Development
+## Frontend Development Cycle
+
+---
+
+## Components Palette
 
 ---
 
 - Navigation
-    - Responsive Navbar
+    - Mobile / Desktop
 - Layouts
-    - Inject meta tags
-- Hero Areas
+    - Inject meta
+- Hero Areas / CTAs
+- Buttons
+- Cards
 - Footers
+- ...
