@@ -1,6 +1,4 @@
-# New Codebase Outline
-
-# Order of Operations
+# New Codebase Outline - In Order of Operations
 
 ## High-Level Use Case Survey
 
