@@ -4,15 +4,11 @@
 
 ## High-Level Use Case Survey
 
----
-
 - Business requirements
 - Design review
 - Integrations with existing in-house platform(s)
 
 ## Project Management
-
----
 
 - Platform
     - Jira | ZenHub | Asana | Monday | ClickUp | Favro | Notion
@@ -20,8 +16,6 @@
     - Agile | Kanban | Scrum | Ad-hoc
 
 ## Architectural Decisions
-
----
 
 - JS Framework
     - Static | SSR | SSG | SPA
@@ -42,8 +36,6 @@
 
 ## Repository
 
----
-
 **Local**
 
 - Repo init
@@ -58,13 +50,9 @@
 
 ## Dev Environment
 
----
-
 - VS Code + Docker Dev Environment (for consistent dev environments across all computers)
 
 ## Monorepo Structure
-
----
 
 - Frontend Application(s)
     - Web Client
@@ -75,8 +63,6 @@
 - Shared - Utilities and Components
 
 ## Initial Dependencies and Configs
-
----
 
 - Framework
     - Remote sources
@@ -102,16 +88,12 @@
 
 ## CSS Globals
 
----
-
 - Overrides
 - Colors
 - Fonts
 - Custom utility classes
 
 ## Deployment Overview and Setup
-
----
 
 - Collect DNS information
 - Client Hosting environment
@@ -126,8 +108,6 @@
 
 ## Mock Services
 
----
-
 - APIs
 - ORM / Database
 - Emulators
@@ -135,16 +115,12 @@
 
 ## Identity + Access Management
 
----
-
 - Authentication
 - Authorization
 - Roles
 - User Data
 
 ## Backend Development Cycle
-
----
 
 - API Development
     - Auto-documentation
@@ -154,8 +130,6 @@
     - Initial migration
 
 ## Frontend Development Cycle
-
----
 
 ### Components Palette
 
