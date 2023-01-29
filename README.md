@@ -46,21 +46,21 @@ The following document is offered for free to the public under the GNU Free Docu
 
 **Local**
 
-- Init
-- main | staging | dev > workspace-feature-task
+- Repo init
+- Branch structure: main | staging | dev > workspace-feature-task
 
 **Remote**
 
-- Create account(s)
+- Create remote repo account(s)
 - Init push
-- Pull guards
-- Issue tracking
+- Establish pull guards / branch protections
+- Set up issue tracking
 
 ## Dev Environment
 
 ---
 
-- VS Code + Docker Dev Environment
+- VS Code + Docker Dev Environment (for consistent dev environments across all computers)
 
 ## Monorepo Structure
 
