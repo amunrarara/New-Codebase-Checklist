@@ -1,6 +1,6 @@
 # New Codebase Outline - In Order of Operations
 
-The following document is offered for free to the public under the GNU Free Documentation License: https://www.gnu.org/licenses/fdl-1.3.html
+*The following document is offered for free to the public under the GNU Free Documentation License: https://www.gnu.org/licenses/fdl-1.3.html*
 
 ## High-Level Use Case Survey
 
